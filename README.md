@@ -1,2 +1,2 @@
 # my_package
-My first ROS package
+A template ROS package for ROS learners and developers.
